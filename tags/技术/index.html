@@ -1,0 +1,169 @@
+<!doctype html><html lang=zh dir=auto>
+<head><meta charset=utf-8>
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
+<meta name=robots content="index, follow">
+<title>技术 | 枳林</title>
+<meta name=keywords content>
+<meta name=description content>
+<meta name=author content>
+<link rel=canonical href=http://picozai.tk/tags/%E6%8A%80%E6%9C%AF/>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css integrity="sha256-yIlj/i15RiAA/Q+xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as=style>
+<link rel=icon href=http://picozai.tk/favicon.ico>
+<link rel=icon type=image/png sizes=16x16 href=http://picozai.tk/favicon-16x16.png>
+<link rel=icon type=image/png sizes=32x32 href=http://picozai.tk/favicon-32x32.png>
+<link rel=apple-touch-icon href=http://picozai.tk/apple-touch-icon.png>
+<link rel=mask-icon href=http://picozai.tk/safari-pinned-tab.svg>
+<meta name=theme-color content="#2e2e33">
+<meta name=msapplication-TileColor content="#2e2e33">
+<meta name=generator content="Hugo 0.92.1">
+<link rel=alternate type=application/rss+xml href=http://picozai.tk/tags/%E6%8A%80%E6%9C%AF/index.xml>
+<noscript>
+<style>#theme-toggle,.top-link{display:none}</style>
+<style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
+</noscript><meta property="og:title" content="技术">
+<meta property="og:description" content>
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://picozai.tk/tags/%E6%8A%80%E6%9C%AF/">
+<meta name=twitter:card content="summary">
+<meta name=twitter:title content="技术">
+<meta name=twitter:description content>
+</head>
+<body class=list id=top>
+<script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
+<header class=header>
+<nav class=nav>
+<div class=logo>
+<a href=http://picozai.tk accesskey=h title="枳林 (Alt + H)">枳林</a>
+<span class=logo-switches>
+<button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+</button>
+</span>
+</div>
+<ul id=menu>
+<li>
+<a href=http://picozai.tk/about/ title=关于>
+<span>关于</span>
+</a>
+</li>
+<li>
+<a href=http://picozai.tk/aya/ title=あや>
+<span>あや</span>
+</a>
+</li>
+<li>
+<a href=https://pikt.notion.site/527c87ef88694ffb919fd785048d12bf title=时语>
+<span>时语</span>
+</a>
+</li>
+<li>
+<a href=https://pikt.notion.site/ee53750c5dc14b44aaafafbef9f6fad5 title=乡音>
+<span>乡音</span>
+</a>
+</li>
+<li>
+<a href=http://picozai.tk/friends/ title=朋友>
+<span>朋友</span>
+</a>
+</li>
+<li>
+<a href=http://picozai.tk/search/ title="🔍 (Alt + /)" accesskey=/>
+<span>🔍</span>
+</a>
+</li>
+</ul>
+</nav>
+</header>
+<main class=main>
+<header class=page-header>
+<h1>技术</h1>
+</header>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Firefox 垂直标签栏实现
+</h2>
+</header>
+<section class=entry-content>
+<p>开启 about:profiles 页 打开设置文件夹 新建 chrome 文件夹 在 chrome 文件夹中新建 userChrome.css 文件，其内容为： #TabsToolbar { visibility: collapse !important; } #sidebar-close { visibility: collapse; } 安装 Tree Style Tab 附加组件 开启 about:config 页 搜索选项 toolkit.legacyUserProfileCustomizations.stylesheets ，设置为 true 重启 Firefox 浏览器即可查看更改后的样式 Ref: 707wk —— 《Firefox 使用竖直标签》</p>
+</section>
+<footer class=entry-footer><span title="2021-10-05 00:00:00 +0000 UTC">十月 5, 2021</span></footer>
+<a class=entry-link aria-label="post link to Firefox 垂直标签栏实现" href=http://picozai.tk/posts/firefox-tabs/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>在 Git 中使用子模块
+</h2>
+</header>
+<section class=entry-content>
+<p>背景 在 关于 Fruition 问题的反思 中我提到因为 Loconotion 方面的原因，我自己 fork 并修改了一遍 Loconotion 项目的部分文件，如今原项目已经修复了这个 bug，虽然一时半会儿并没有迁移回去的必要，但是思来想去还是用官方的仓库比较好，一来自己修改的时候有个人化的定制，可能会泄露一些隐私（其实并不算），二来以后也比较好与上游同步。事实上，除去链接的问题，我也就改了 Google Fonts 的国内镜像，这个问题不大不小，其实也没什么好纠结的。
+废话说太多了，本篇文章的目的是记录一下子模块的使用，以便之后不必再四处寻找教程手忙脚乱。
+删除子模块 💡 以下命令行操作是在主仓库目录下进行的。
+删除子模块缓存 git add .gitmodules git rm --cached submodule_name 删除子模块目录 rm -rf ./submodule_name 修改 .gitmodules 文件
+移除相关模块的信息，若只有一个，则可以直接删除此文件。
+在 .git/modules 目录下删除相关模块目录
+在 .git/config 删除相应的模块信息
+提交到仓库，做其他想干的事情
+添加子模块 添加模块 git submodule add &lt;url> &lt;path> 报错： git submodule: already exists in the index...</p>
+</section>
+<footer class=entry-footer><span title="2021-10-05 00:00:00 +0000 UTC">十月 5, 2021</span></footer>
+<a class=entry-link aria-label="post link to 在 Git 中使用子模块" href=http://picozai.tk/posts/git-submodules/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Windows 10 使用技巧
+</h2>
+</header>
+<section class=entry-content>
+<p>每次安装都会用到，遂记录。
+1. 设置小鹤双拼 使用注册表项以实现便捷添加。
+其内容是：
+Windows Registry Editor Version 5.00 [HKEY_CURRENT_USER\Software\Microsoft\InputMethod\Settings\CHS] "UserDefinedDoublePinyinScheme0"="小鹤双拼*2*^*iuvdjhcwfg^xmlnpbksqszxkrltvyovt" 也可直接下载：
+xiaohe.reg
+2. 设置 UTC 时间 在 Powershell 中以管理员权限运行如下命令：
+reg add “HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\TimeZoneInformation” /v RealTimeIsUniversal /d 1 /t REG_QWORD /f Ref wensonsmith ——《Win10 使用注册表一键添加小鹤双拼方案》 delphij’s Chaos —— 《将 Windows 10 的系统时钟时间设置为UTC》 </p>
+</section>
+<footer class=entry-footer><span title="2021-09-24 00:00:00 +0000 UTC">九月 24, 2021</span></footer>
+<a class=entry-link aria-label="post link to Windows 10 使用技巧" href=http://picozai.tk/posts/tricks4win10/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>关于 Fruition 问题的反思
+</h2>
+</header>
+<section class=entry-content>
+<p>在短短的一周之中，由于 Notion 方面的更改，Fruition 已经出现了两次较为严重的问题，这是值得反思的。虽然，在 Fruition 官方网站上已经有免责声明了，但是还是不得不感慨一下免费服务的不稳定性和第三方服务的不可控性。诚然，Fruition 所说的十分钟快速建站的确很方便，自己添加 Google Fonts 和其他代码也很不错，但是这毕竟不是官方支持下的行为，因此造成了这几天遇到的麻烦，可以说是一个巨大的教训，而且还会造成评论功能无法使用的尴尬状况。受到这篇文章的启发，我打算使用跳转页面的方式来实现域名的缩短，而不是重写域名，也就是说我放弃了 Fruition 项目，但仍然可以使用 picozai.tk 来访问本博客。
+此外，为了保障可用性，我为本站做了一个备份页面，使用的是 Loconotion 项目 + Vercel + Github Actions。Loconotion 是我在东翻西找之后发现的一个比较令我满意的能够将 Notion 转化为静态页面的项目，类似的项目还有 Nobelium、Notablog 等。然而，这些项目都不能保留网站的原貌，亦无法继承较为完整的 database 功能，这与我的需要相悖，故放弃。之所以使用这样的搭配，还有一个缘故是 GitHub 上有现成的利用 Actions 的模板可以使用，免去了本地部署的麻烦而可以设置成定时拉取部署，不过这个模板有些许问题，问题由 Loconotion 导致，下一段细说。话又说回来，非常遗憾的是，Loconotion 并不支持切换 database 的视图，且对移动设备的支持欠佳，故不能用作主站。再谈到 Vercel，这是我最近发现的一个新鲜事物，但似乎早已不是什么小众的东西，通过与 Github 的绑定，Vercel 可以实现自动拉取代码部署的功能。经测试，用起来确实是比原生的 GitHub Pages 高速一些，而且这样一来就可以把项目仓库设置为私密，也无需担心公开仓库带来的隐私顾虑。
+在调试 Loconotion 的时候，发现了一个奇怪的问题——子页面无法转换，根据报错信息，可以发现这是由于 Notion 方面改变了分享链接的格式导致的，然而灵活的解决方案并未找到，故直接把写死了的 www.notion.so 全部硬改为 pikt.notion.site ，然而这样还是有一些问题，就是在使用 Loconotion 的时候必须采取python loconotion https://xxxx.notion.site/xxxx/{page-id}的形式，而不能单纯写成python loconotion https://xxxx.notion.site/{page-id}，否则只有主页能被转化，子页会出错。为了让那个模板可以正常运作，我又自行 fork 了一遍 Loconotion 来修改，再通过git submodules add xxxx.xxxx.xxxx来链接到这个仓库（还是要点脸），除去上面的更改，我还把 Google Fonts 的地址更改为了国内的镜像地址以稍作加速。...</p>
+</section>
+<footer class=entry-footer><span title="2021-08-19 00:00:00 +0000 UTC">八月 19, 2021</span></footer>
+<a class=entry-link aria-label="post link to 关于 Fruition 问题的反思" href=http://picozai.tk/posts/reflections-of-fruition/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>路由器折腾资源汇总
+</h2>
+</header>
+<section class=entry-content>
+<p>官方固件开启 ssh 方法
+ShellClash
+MIXBOX（仍在停更）</p>
+</section>
+<footer class=entry-footer><span title="2021-08-18 00:00:00 +0000 UTC">八月 18, 2021</span></footer>
+<a class=entry-link aria-label="post link to 路由器折腾资源汇总" href=http://picozai.tk/posts/devtools4router/></a>
+</article>
+</main>
+<footer class=footer>
+<span>&copy; 2022 <a href=http://picozai.tk>枳林</a></span>
+<span>
+Powered by
+<a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
+        <a href=https://git.io/hugopapermod rel=noopener target=_blank>PaperMod</a>
+</span>
+</footer>
+<a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
+</a>
+<script>let menu=document.getElementById('menu');menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener("click",function(b){b.preventDefault();var a=this.getAttribute("href").substr(1);window.matchMedia('(prefers-reduced-motion: reduce)').matches?document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView({behavior:"smooth"}),a==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${a}`)})})</script>
+<script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script>
+<script>document.getElementById("theme-toggle").addEventListener("click",()=>{document.body.className.includes("dark")?(document.body.classList.remove('dark'),localStorage.setItem("pref-theme",'light')):(document.body.classList.add('dark'),localStorage.setItem("pref-theme",'dark'))})</script>
+</body>
+</html>

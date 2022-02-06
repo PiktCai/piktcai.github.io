@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>收集 on 枳林</title><link>http://picozai.tk/tags/%E6%94%B6%E9%9B%86/</link><description>Recent content in 收集 on 枳林</description><generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://picozai.tk/tags/%E6%94%B6%E9%9B%86/index.xml" rel="self" type="application/rss+xml"/><item><title>Windows 10 使用技巧</title><link>http://picozai.tk/posts/tricks4win10/</link><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate><guid>http://picozai.tk/posts/tricks4win10/</guid><description>每次安装都会用到，遂记录。
+1. 设置小鹤双拼 使用注册表项以实现便捷添加。
+其内容是：
+Windows Registry Editor Version 5.00 [HKEY_CURRENT_USER\Software\Microsoft\InputMethod\Settings\CHS] &amp;#34;UserDefinedDoublePinyinScheme0&amp;#34;=&amp;#34;小鹤双拼*2*^*iuvdjhcwfg^xmlnpbksqszxkrltvyovt&amp;#34; 也可直接下载：
+xiaohe.reg
+2. 设置 UTC 时间 在 Powershell 中以管理员权限运行如下命令：
+reg add “HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\TimeZoneInformation” /v RealTimeIsUniversal /d 1 /t REG_QWORD /f Ref wensonsmith ——《Win10 使用注册表一键添加小鹤双拼方案》 delphij&amp;rsquo;s Chaos —— 《将 Windows 10 的系统时钟时间设置为UTC》</description></item><item><title>路由器折腾资源汇总</title><link>http://picozai.tk/posts/devtools4router/</link><pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate><guid>http://picozai.tk/posts/devtools4router/</guid><description>for Redmi AC2100</description></item></channel></rss>
