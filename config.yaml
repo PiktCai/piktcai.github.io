@@ -1,0 +1,47 @@
+baseURL: http://picozai.tk
+languageCode: zh
+defaultContentLanguage: zh
+title: 枳林
+theme: PaperMod
+params:
+    homeInfoParams:
+        Title: Piacere di conoscerti! 👋
+        Content: 在南方的这里有一片枳林。
+    socialIcons:
+      - name: "email"
+        url: "mailto:picozai@outlook.com"
+      - name: "github"
+        url: "https://github.com/PiktCai"
+    ShowCodeCopyButtons: true
+    env: production
+menu:
+  main:
+    - identifier: about
+      name: 关于
+      url: /about/
+      weight: 10
+    - identifier: aya
+      name: あや
+      url: /aya/
+      weight: 20
+    - identifier: poems
+      name: 时语
+      url: https://pikt.notion.site/527c87ef88694ffb919fd785048d12bf
+      weight: 30
+    - identifier: friends
+      name: 朋友
+      url: /friends/
+      weight: 50
+    - identifier: dialect
+      name: 乡音
+      url: https://pikt.notion.site/ee53750c5dc14b44aaafafbef9f6fad5
+      weight: 40
+    - identifier: search
+      name: 🔍
+      url: /search/
+      weight: 60
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
