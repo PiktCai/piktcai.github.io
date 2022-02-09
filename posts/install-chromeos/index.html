@@ -23,7 +23,9 @@
 <noscript>
 <style>#theme-toggle,.top-link{display:none}</style>
 <style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
-</noscript><script async defer data-website-id=6ecb16bf-376d-452e-8042-b7c2958cc5e9 src=https://umami.picozai.tk/umami.js></script><meta property="og:title" content="Chrome OS 安装思路（旧）">
+</noscript><script async defer data-website-id=6ecb16bf-376d-452e-8042-b7c2958cc5e9 src=https://umami.picozai.tk/umami.js></script>
+<script defer data-domain=picozai.tk src=https://plausible.io/js/plausible.js></script>
+<meta property="og:title" content="Chrome OS 安装思路（旧）">
 <meta property="og:description" content="17/10/2020 更新：此方法现在看来已经过时，且无法解决TPM2设备镜像导致的种种问题，不再建议使用，仅供技术参考和交流学习。
  Chrome OS并不提供普通PC可安装的镜像，可是大多数Chromium OS无法满足大家的需求，所以我们可以挑战一个新思路：通过官方的Chrome OS恢复镜像，将其安装到PC上。 说在前头，这个方法仅适用于支持UEFI启动方式的电脑，如果你的电脑只支持传统的Legacy，那就可以关掉这篇文章了。
  0. 所需材料  一个至少8G的U盘，并备份好其中的数据，我们会清除这上面的所有数据 一台电脑，并备份好硬盘里的数据，我们会清除硬盘里所有的数据 FydeOS系统镜像。注意，请不要使用普通Chromium OS的镜像（如cloudready，Arnoldthebat版本……），因为这些版本中缺少sgdisk这个工具 一个与你电脑配置接近的Chrome设备的恢复镜像，下载地址：https://cros-updates-serving.appspot.com/ （需翻墙），如果你不方便翻墙，你也可以去这个文件里寻找下载链接。不论是在前一个地址还是后一个文件里获得的下载链接均无需翻墙便可以下载，下载后解压缩得到的.bin文件就是我们要的  1. 准备工作  将FydeOS的镜像写入U盘，推荐使用Etcher，当然，Rufus，win32diskimager也行 重启电脑，从刚写入好的U盘开机，并创建一个用户，进入到系统桌面 在文件管理器中把以.bin结尾的Chrome OS镜像复制到下载内容目录，并重命名为chromeos.bin，如果在复制过程中出现死机等情况，可以直接在FydeOS中下载zip文件并解压，然后再重命名  2. 写入硬盘  打开浏览器页面，再按Ctrl+Alt+T，这时Crosh Shell页面便会出现，此刻显示的应该是  crosh>  我们先输入命令：shell，然后回车，便进入了Bash Shell  chronos@localhost / $  这时我们输入命令：cd ~/Downloads，进入下载内容目录  chronos@localhost ~/Downloads $  接下来我们输入：sudo su，切换到root用户，终端显示如下  We trust you have received the usual lecture from the local System Administrator. It usually boils down to these three things: #1) Respect the privacy of others.">
