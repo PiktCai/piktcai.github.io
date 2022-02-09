@@ -3,6 +3,7 @@ languageCode: zh
 defaultContentLanguage: zh
 title: 枳林
 theme: PaperMod
+googleAnalytics: G-PXWR16MJZH
 params:
     homeInfoParams:
         Title: Piacere! 👋
