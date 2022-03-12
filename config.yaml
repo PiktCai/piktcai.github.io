@@ -28,10 +28,6 @@ menu:
       name: 时语
       url: https://pikt.notion.site/527c87ef88694ffb919fd785048d12bf
       weight: 30
-    - identifier: friends
-      name: 朋友
-      url: /friends/
-      weight: 50
     - identifier: dialect
       name: 乡音
       url: https://pikt.notion.site/ee53750c5dc14b44aaafafbef9f6fad5
