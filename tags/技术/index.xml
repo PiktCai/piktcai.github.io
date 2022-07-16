@@ -6,7 +6,9 @@
 在 .git/modules 目录下删除相关模块目录
 在 .git/config 删除相应的模块信息
 提交到仓库，做其他想干的事情
-添加子模块 添加模块 git submodule add &amp;lt;url&amp;gt; &amp;lt;path&amp;gt; 报错： git submodule: already exists in the index</description></item><item><title>Windows 10 使用技巧</title><link>http://picozai.tk/posts/tricks4win10/</link><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate><guid>http://picozai.tk/posts/tricks4win10/</guid><description>每次安装都会用到，遂记录。
+添加子模块 添加模块 git submodule add &amp;lt;url&amp;gt; &amp;lt;path&amp;gt; 报错： git submodule: already exists in the index
+先运行下列命令，再重复 1. 步骤
+git rm -r --cached submodule_name 使用子模块 *实测 Github Desktop 客户端可以跳过此步骤。 默认在克隆主仓库时不会克隆子仓库的文件，需要手动克隆</description></item><item><title>Windows 10 使用技巧</title><link>http://picozai.tk/posts/tricks4win10/</link><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate><guid>http://picozai.tk/posts/tricks4win10/</guid><description>每次安装都会用到，遂记录。
 1. 设置小鹤双拼 使用注册表项以实现便捷添加。
 其内容是：
 Windows Registry Editor Version 5.00 [HKEY_CURRENT_USER\Software\Microsoft\InputMethod\Settings\CHS] &amp;#34;UserDefinedDoublePinyinScheme0&amp;#34;=&amp;#34;小鹤双拼*2*^*iuvdjhcwfg^xmlnpbksqszxkrltvyovt&amp;#34; 也可直接下载：
