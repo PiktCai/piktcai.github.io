@@ -21,7 +21,7 @@ Windows Registry Editor Version 5.00
 
 也可直接下载：
 
-[xiaohe.reg](https://pikt.coding.net/p/ifpkw/d/ifpkw/git/raw/master/attachments/xiaohe.reg?download=true)
+[xiaohe.reg](https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/attachments/xiaohe.reg?download=true)
 
 ## 2. 设置 UTC 时间
 

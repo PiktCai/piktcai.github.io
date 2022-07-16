@@ -14,7 +14,7 @@ tags: ['博客']
 
 用了一两天，弄得差不多了，却陷入了另一个问题——本来就不太短的域名后面还有一段冗长的 Page ID，实在是不便于传播，更别说记住了。然而，可以曲线救国缩短地址长度的 [Fruition 项目](https://fruitionsite.com/)至至少需要一个域名，这和我迁移的初衷相违背。于是，我意识到，如此两全其美的平台实在是不太可能找到，至少现在没有，于是思路一转，找到了可以注册特定后缀免费域名的 [Freenom](https://my.freenom.com)，经过一番研究调查实践，最后终于拿下现在这个域名，并极快速地用 Fruition 链接好了网站。至此，技术上的事情告一段落，接下来谈谈这次迁移带来了什么新东西：
 
-- [あや](https://www.notion.so/f6ead92419b84e4480f1c86d8ab3d7c8) ：这是为小彩专门设置的页面，目前只有原来的手帐内容，日后会增加她的一些内容产出，敬请期待吧！如果想要先看看她的文章，可以移步公众号：[正在播放生活w](https://pikt.coding.net/p/ifpkw/d/ifpkw/git/raw/master/article/aya-no-subscription.jpg)。 
+- [あや](https://www.notion.so/f6ead92419b84e4480f1c86d8ab3d7c8) ：这是为小彩专门设置的页面，目前只有原来的手帐内容，日后会增加她的一些内容产出，敬请期待吧！如果想要先看看她的文章，可以移步公众号：[正在播放生活w](https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya-no-subscription.jpg)。 
 - [时语](https://www.notion.so/527c87ef88694ffb919fd785048d12bf) ：不消多说，点进去看看便知。
 - [乡音](https://www.notion.so/ee53750c5dc14b44aaafafbef9f6fad5) ：本来想把古诗词乡音选注整个项目也都迁移过来，只是工程量不小，而意义不大，因此只做了一个页面打算指向原项目地址。然而实在是太空了，看着竟然有点让人犯尴尬，于是干脆把能搜集到的一部分闽南语学习在线资源给放上去，什么时候把它独立弄成一个页面好了（有必要的话）。
 
