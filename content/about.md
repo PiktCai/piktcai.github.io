@@ -9,7 +9,7 @@ title: "关于"
 
 嘘，来听首歌吧。
 {{< rawhtml >}}
-<div <div style="position: relative;"><div style="display: block; width: 100%; pointer-events: auto; position: relative;"><audio controls="" preload="none" src="https://pikt.coding.net/p/ifpkw/d/ifpkw/git/raw/master/musica/yurucamp.mp3" style="display: block; width: 100%; pointer-events: auto; position: relative;"></audio></div></div></div></div></br>
+<div <div style="position: relative;"><div style="display: block; width: 100%; pointer-events: auto; position: relative;"><audio controls="" preload="none" src="https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/musica/yurucamp.mp3" style="display: block; width: 100%; pointer-events: auto; position: relative;"></audio></div></div></div></div></br>
 {{< /rawhtml >}} 
 
 （注：本博客中绝大多数图片都由我本人提供，如需使用请联系我）
