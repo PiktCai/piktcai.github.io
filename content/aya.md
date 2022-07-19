@@ -9,28 +9,28 @@ title: 'あや'
 
 ## 2020/02/29 更新
 
-![https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/blue1.jpg](https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/blue1.jpg)
+![https://s1.imagehub.cc/images/2022/07/20/blue1.jpg](https://s1.imagehub.cc/images/2022/07/20/blue1.jpg)
 
-![https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/blue2.jpg](https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/blue2.jpg)
+![https://s1.imagehub.cc/images/2022/07/20/blue2.jpg](https://s1.imagehub.cc/images/2022/07/20/blue2.jpg)
 
-![https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/blue3.jpg](https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/blue3.jpg)
+![https://s1.imagehub.cc/images/2022/07/20/blue3.jpg](https://s1.imagehub.cc/images/2022/07/20/blue3.jpg)
 
-![https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/red1.jpg](https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/red1.jpg)
+![https://s1.imagehub.cc/images/2022/07/20/red1.jpg](https://s1.imagehub.cc/images/2022/07/20/red1.jpg)
 
-![https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/red2.jpg](https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/red2.jpg)
+![https://s1.imagehub.cc/images/2022/07/20/red2.jpg](https://s1.imagehub.cc/images/2022/07/20/red2.jpg)
 
-![https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/red3.jpg](https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/red3.jpg)
+![https://s1.imagehub.cc/images/2022/07/20/red3.jpg](https://s1.imagehub.cc/images/2022/07/20/red3.jpg)
 
 ## 2020/03/06 春
 
-![https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/red4.jpg](https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/red4.jpg)
+![https://s1.imagehub.cc/images/2022/07/20/red4.jpg](https://s1.imagehub.cc/images/2022/07/20/red4.jpg)
 
-![https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/yellow1.jpg](https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/yellow1.jpg)
+![https://s1.imagehub.cc/images/2022/07/20/yellow1.jpg](https://s1.imagehub.cc/images/2022/07/20/yellow1.jpg)
 
-![https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/yellow2.jpg](https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/yellow2.jpg)
+![https://s1.imagehub.cc/images/2022/07/20/yellow2.jpg](https://s1.imagehub.cc/images/2022/07/20/yellow2.jpg)
 
-![https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/green1.jpg](https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/green1.jpg)
+![https://s1.imagehub.cc/images/2022/07/20/green1.jpg](https://s1.imagehub.cc/images/2022/07/20/green1.jpg)
 
-![https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/green2.jpg](https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/green2.jpg)
+![https://s1.imagehub.cc/images/2022/07/20/green2.jpg](https://s1.imagehub.cc/images/2022/07/20/green2.jpg)
 
-![https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/purple1.jpg](https://cdn.jsdelivr.net/gh/cilunga1024/ifpkw@master/article/aya_no_techo/purple1.jpg)
+![https://s1.imagehub.cc/images/2022/07/20/purple1.jpg](https://s1.imagehub.cc/images/2022/07/20/purple1.jpg)
